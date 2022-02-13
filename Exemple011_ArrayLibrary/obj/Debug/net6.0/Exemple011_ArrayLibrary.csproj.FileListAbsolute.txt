@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\Exemple011_ArrayLibrary.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\Exemple011_ArrayLibrary.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\Exemple011_ArrayLibrary.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\Exemple011_ArrayLibrary.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\ref\Exemple011_ArrayLibrary.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\bin\Debug\net6.0\Exemple011_ArrayLibrary.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\ref\Exemple011_ArrayLibrary.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple011_ArrayLibrary\obj\Debug\net6.0\Exemple011_ArrayLibrary.genruntimeconfig.cache
