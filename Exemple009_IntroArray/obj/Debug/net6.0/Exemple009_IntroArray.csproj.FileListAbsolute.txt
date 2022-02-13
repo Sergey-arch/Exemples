@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\Exemple009_IntroArray.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\Exemple009_IntroArray.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\Exemple009_IntroArray.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\Exemple009_IntroArray.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\ref\Exemple009_IntroArray.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\bin\Debug\net6.0\Exemple009_IntroArray.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\ref\Exemple009_IntroArray.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple009_IntroArray\obj\Debug\net6.0\Exemple009_IntroArray.genruntimeconfig.cache
