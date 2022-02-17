@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\Exemple012_Void.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\Exemple012_Void.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\Exemple012_Void.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\Exemple012_Void.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\ref\Exemple012_Void.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\bin\Debug\net6.0\Exemple012_Void.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\ref\Exemple012_Void.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple012_Void\obj\Debug\net6.0\Exemple012_Void.genruntimeconfig.cache
