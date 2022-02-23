@@ -10,9 +10,9 @@ string[,] table = new string[2, 5];//2 это кол-во строк (Две с�
 table[1, 2] = "слово"; // 1 это получается 2-я строка 
                        // 2 это получается 3-ий столбец;
 
-for (int rows = 0; rows < 2; rows++) // rows - строки
+for (int rows = 0; rows < table.GetLength(0); rows++) // rows - строки
 {
-    for (int columns  = 0; columns < 5; columns++) // columns - столбцы
+    for (int columns  = 0; columns < table.GetLength(1); columns++) // columns - столбцы
     {
         Console.Write($"-{table[rows, columns]}- ");
     }
