@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\Exemple017a_matrix.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\Exemple017a_matrix.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\Exemple017a_matrix.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\Exemple017a_matrix.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\ref\Exemple017a_matrix.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\bin\Debug\net6.0\Exemple017a_matrix.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\ref\Exemple017a_matrix.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017a_matrix\obj\Debug\net6.0\Exemple017a_matrix.genruntimeconfig.cache
