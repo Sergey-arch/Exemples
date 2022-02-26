@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\Exemple017b_Image.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\Exemple017b_Image.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\Exemple017b_Image.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\Exemple017b_Image.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\ref\Exemple017b_Image.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\bin\Debug\net6.0\Exemple017b_Image.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\ref\Exemple017b_Image.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017b_Image\obj\Debug\net6.0\Exemple017b_Image.genruntimeconfig.cache
