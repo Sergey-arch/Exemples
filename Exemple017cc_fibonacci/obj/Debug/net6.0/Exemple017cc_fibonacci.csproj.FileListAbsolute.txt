@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\Exemple017cc_fibonacci.exe
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\Exemple017cc_fibonacci.deps.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\Exemple017cc_fibonacci.runtimeconfig.json
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\Exemple017cc_fibonacci.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\ref\Exemple017cc_fibonacci.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\bin\Debug\net6.0\Exemple017cc_fibonacci.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\ref\Exemple017cc_fibonacci.dll
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.pdb
+C:\Users\Sergey\Desktop\Exemples\Exemple017cc_fibonacci\obj\Debug\net6.0\Exemple017cc_fibonacci.genruntimeconfig.cache
