@@ -13,7 +13,7 @@ double Fibonacci(int n)
 }
 for (int i = 1; i < 20; i++) // для 
 {
-    Console.WriteLine($"{i} = {Fibonacci(i)}");
+    Console.WriteLine($"f({i}) = {Fibonacci(i)}");
 }
 
 
